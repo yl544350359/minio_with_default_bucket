@@ -1,0 +1,1 @@
+# minio_with_default_bucket
